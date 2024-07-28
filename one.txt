@@ -1,3 +1,6 @@
+Please read must first readme.md file then go ahead.....
+
 This is first github commit.
 add second line text for new commit.
 now we can just push code on github just write this command 'git push'.
+
