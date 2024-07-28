@@ -21,6 +21,6 @@
 * checking branch is availble or not = git checkout <branchname>
 * push code on github = git push -u origin main 
 * -u for upstream, origin for = your remote repo which is in your local environment, main is your branch name in which you push your code.
-when you first time pushing code on the github, you must write this command because this command set/connect your branch and remote repo on same upstream after that you can just write "git push origin main" cmd.
+when you first time pushing code on the github, you must write this command because this command set/connect your branch and remote repo on same upstream after that you can just write "git push" cmd.
 
 # Happy Coding!
